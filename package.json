@@ -1,0 +1,11 @@
+{
+  "name": "ezyvote",
+  "version": "1.0.0",
+  "description": "description: A decentralized voting system built on blockchain technology.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
